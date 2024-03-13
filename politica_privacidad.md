@@ -1,3 +1,5 @@
+## Política de privacidad.
+
 El autor ha desarrollado la aplicación "brianda test app" como una aplicación gratuita. Este SERVICIO es proporcionado por el autor sin ningún costo y está destinado para su uso tal como está.
 
 Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, uso y divulgación de Información Personal en caso de que alguien decida utilizar mi Servicio.
